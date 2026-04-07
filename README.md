@@ -50,7 +50,7 @@ FORWARD
 This video demonstrates the robot autonomously navigating the maze using sensor-based decision making and FSM control.
 
 🔗 Watch here:  
-https://youtu.be/5W3ZDTSREt4?si=YWGhYn7VGu21u4md
+https://youtu.be/5W3ZDTSREt4?t=147
 
 ## 🛠️ Tools Used
 - Verilog HDL
