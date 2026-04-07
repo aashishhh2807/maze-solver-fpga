@@ -22,7 +22,7 @@ An FPGA-based autonomous maze solver robot designed in Verilog HDL that uses ult
 - Soil Moisture Interface
 
 ## 🔄 FSM Design
-
+```
 WAIT_FOR_START
 ↓
 RESET_TICKS
@@ -42,7 +42,7 @@ DECIDE
 RESET_TICKS
 ↓
 FORWARD
-
+```
 ## 🧪 Results
 
 🎥 **Maze Solver Robot Demo**
